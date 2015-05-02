@@ -1,0 +1,12 @@
+h1 {
+  text-decoration: underline;
+}
+
+.content {
+	font-family: 'Source Code Pro', monospace;
+	font-size: 16pt;
+	word-break: break-all;
+	white-space: pre-wrap;
+	line-height: 20px;
+}
+
